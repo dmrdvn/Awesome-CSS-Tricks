@@ -1,0 +1,34 @@
+/* Default Styles */
+
+html, body {
+    height: 100%;
+  }
+.container {
+    display: 100%;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input {
+    padding: 10px;
+    outline: o;
+}
+
+button {
+    padding: 10px;
+    background-color: red;
+    color: white;
+    outline: 0;
+    border: none;
+    margin-left: 5px;
+}
+
+
+/* This Project Styles */
+button {
+    display: none;
+}
+input:not(:placeholder-shown) + button {
+    display: block;
+}
