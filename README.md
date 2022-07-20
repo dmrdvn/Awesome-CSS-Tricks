@@ -42,3 +42,10 @@ input:not(:placeholder-shown) + button {
 ```
 ### Output:
 ![Show Button with Focus Example](screenshots/CardFlipEffect.gif)
+
+
+- [**Icon Hover Effect**](https://github.com/dmrdvn/Awesome-CSS-Tricks/tree/main/Icon%20Hover%20Effect)
+
+### Output:
+![Show Button with Focus Example](screenshots/icon-hover-effect.gif)
+
