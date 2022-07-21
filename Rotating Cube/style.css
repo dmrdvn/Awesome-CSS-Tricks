@@ -40,7 +40,7 @@
 
 .left {
     transform: translateX(-150px)
-    rotateX(90deg);
+    rotateY(90deg);
     background-image: url(https://picsum.photos/200/200);
 }
 
@@ -52,7 +52,7 @@
 
 .top {
     transform: translateY(-150px)
-    rotateY(90deg);
+    rotateX(90deg);
     background-image: url(https://picsum.photos/200/200);
 }
 
