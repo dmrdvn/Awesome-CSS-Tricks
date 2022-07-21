@@ -49,3 +49,8 @@ input:not(:placeholder-shown) + button {
 ### Output:
 ![Show Button with Focus Example](screenshots/icon-hover-effect.gif)
 
+- [**Rotating 3D Cube Effect**](https://github.com/dmrdvn/Awesome-CSS-Tricks/tree/main/Rotating%20Cube)
+
+### Output:
+![Show Button with Focus Example](screenshots/rotating-cube.gif)
+

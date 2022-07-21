@@ -1,4 +1,11 @@
 
+html body {
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .wrapper {
     --imagesize:300px;
     --transform: calc(var(--imagesize) /2);
